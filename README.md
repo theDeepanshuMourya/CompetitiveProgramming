@@ -2,6 +2,6 @@
 
 A repository containing solutions to the competitive programming challenges I participate in.
 
-Codechef Current Rating - 1518 (2 :star:)
+Codechef Current Rating - 1626 (3 :star:)
 
-Codeforces Current Rating - 413 (Newbie)
+Codeforces Current Rating - 644 (Newbie)
